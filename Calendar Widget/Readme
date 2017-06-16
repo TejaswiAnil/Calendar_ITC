@@ -1,0 +1,6 @@
+Steps to Add Widget:
+1.Add the script "widget.js" in the head element.
+2.Add a div element to place the widget content with some id selector.
+3.Place the widget folder into your project data.
+4.Change the import path of the external libraries used in "main" function of widget.js
+ 
